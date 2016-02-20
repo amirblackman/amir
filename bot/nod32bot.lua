@@ -243,14 +243,14 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {76003864},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel :@CYBORG_ANTISPAM_CHANNEL
+sodu : @AMIR_TA_HERI
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -490,10 +490,10 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer: @BehroozYaghi
+Developer:
 توسعه دهنده
 
-channel: @Nod32team
+channel:
 کانال ما
 
 G00D LUCK ^_^
